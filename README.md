@@ -21,9 +21,19 @@ Organize o material em um arquivo só, caso tenha mais de uma pagina
 # Como contribuir:
 
 1. Faça um clone do repositorio clicando no botão "Fork"
-<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/image.png"/>
+
+<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/fork.png"/>
+
 2. Agora em seu clone do repositório clique em "Add Files" e "Upload Files" 
-<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/1%20upload%20files.png"/>
+
+<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/uploadimg.png"/>
+
 3. Arraste para tela os seus arquivos e escreve uma mensagem no Commit e clique em "Commit changes"
-<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/2-commit.png"/>
-4. Por fim va na aba de Pull Requests, clique em "New Pull Request" <img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/3-new%20pull%20request.png"/>e depois clique em "Create Pull Request" <img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/4-%20create%20a%20pull%20request.png"/>
+
+<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/commit.png"/>
+
+4. Por fim va na aba de Pull Requests, clique em "New Pull Request" e depois clique em "Create Pull Request" 
+
+<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/pullrequest.png"/>
+
+<img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/create%20pull%20request.png"/>
