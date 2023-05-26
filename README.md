@@ -32,8 +32,10 @@ Organize o material em um arquivo só, caso tenha mais de uma pagina
 
 <img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/commit.png"/>
 
-4. Por fim va na aba de Pull Requests, clique em "New Pull Request" e depois clique em "Create Pull Request" 
+4. Por fim va na aba de Pull Requests, clique em "New Pull Request"
 
 <img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/pullrequest.png"/>
+
+e depois clique em "Create Pull Request" 
 
 <img src="https://github.com/deti-provas/deti-provas/blob/main/Outros/create%20pull%20request.png"/>
