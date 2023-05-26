@@ -19,3 +19,8 @@ Caso tenha material sem professor específico crie uma pasta dentro da materia p
 Organize o material em um arquivo só, caso tenha mais de uma pagina
 
 # Como contribuir:
+
+1. Faça uma cópia do repositorio clicando no botão "Fork"
+2. Agora em seu fork do repositório clique em "Add Files" e "Upload Files" 
+3. Arraste para tela os seus arquivos e escreve uma mensagem no Commit e clique em "Commit changes"
+4. Por fim va na aba de Pull Requests, clique em "New Pull Request" e por fim clique em "Create Pull Request" 
